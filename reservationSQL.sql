@@ -1,0 +1,3 @@
+CREATE TABLE reservation (NAME VARCHAR(10), num INT(10) PRIMARY KEY, DATE VARCHAR(20));
+INSERT INTO reservation (NAME, num, DATE) VALUES (NULL, '1', NULL), (NULL, '2', NULL), (NULL, '3', NULL),
+(NULL, '4', NULL), (NULL, '5', NULL), (NULL, '6', NULL);
